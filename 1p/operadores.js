@@ -1,0 +1,10 @@
+var addition = 4 + 6;
+print(addition);
+var subtraction = 6 - 4;
+print(subtraction);
+var multiplication = 5 * 9;
+print(multiplication);
+var division = 100 / 10;
+print(division);
+var longEquation = 4 + 6 + 5 * 9 - 100 / 10;
+print(longEquation);
